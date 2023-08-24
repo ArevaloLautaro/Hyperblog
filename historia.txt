@@ -13,3 +13,7 @@ Experimento 1.
 Experimento 2.
 
 Mañana nos enfocaremos en su vida laboral.
+
+el git rebase sirve para abrir una rama nueva para despues hacer un 
+cambio silencioso como si lo hubiera hecho el master=main
+
