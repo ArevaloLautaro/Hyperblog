@@ -6,4 +6,6 @@ Ivan el Trolazo tiene 30 años y esta gorila.
 
 Este texto es la linea main.
 
+Esta es otra linea del main. La numero 2.
+
 Mañana nos enfocaremos en su vida laboral.
