@@ -4,4 +4,6 @@ Freddy Vega tinene 32 años y nacio en Colombia
 
 Ivan el Trolazo tiene 30 años y esta gorila.
 
+Este texto es la linea main.
+
 Mañana nos enfocaremos en su vida laboral.
